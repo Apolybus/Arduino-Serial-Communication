@@ -104,7 +104,7 @@ namespace arduinoCommunication
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(370, 17);
+            this.btnConnect.Location = new System.Drawing.Point(370, 19);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(103, 23);
             this.btnConnect.TabIndex = 4;
@@ -140,7 +140,7 @@ namespace arduinoCommunication
             // 
             // btnDisconnect
             // 
-            this.btnDisconnect.Location = new System.Drawing.Point(370, 16);
+            this.btnDisconnect.Location = new System.Drawing.Point(370, 19);
             this.btnDisconnect.Name = "btnDisconnect";
             this.btnDisconnect.Size = new System.Drawing.Size(103, 23);
             this.btnDisconnect.TabIndex = 6;
